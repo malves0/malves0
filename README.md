@@ -1,3 +1,13 @@
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+</p>
+
 ### Olá, 
 
 Eu sou a Micaela Alves, estudande de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">
@@ -9,6 +19,19 @@ Atualmente estou no modulo de Front-End e em seguida aprenderei back-end e Cienc
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malves0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malves0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatas-henrique&layout=compact&theme=graywhite&title_color=268bd2" alt="johnatas-henrique" />
+</p>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnatas-henrique&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnatas-henrique" alt="johnatas-henrique" /> </p>
+
+------------------------
 
 📫 Como me encontrar:
 
@@ -27,6 +50,7 @@ Atualmente estou no modulo de Front-End e em seguida aprenderei back-end e Cienc
    <a href="mailto:micaela.alves93@gmail.com" target="_blank">
       <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" width="48px" height="48px">
    </a>
+   
 <!--
 **malves0/malves0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
