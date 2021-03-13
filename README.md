@@ -42,6 +42,9 @@ Atualmente estou no modulo de Front-End e em seguida aprenderei back-end e Cienc
 
 ----
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malves0" alt="micaela-alves" /> </p>
+
+----
  ⭐ Baseado em <a href="https://github.com/johnatas-henrique" target="_blank">Johnatas Henrique</a>
 <!--
 **malves0/malves0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
