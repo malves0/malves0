@@ -11,7 +11,7 @@
 ### Olá, 
 
 Eu sou a Micaela Alves, estudande de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">
-      <img src="https://uploads-ssl.webflow.com/5fba98ad987231cf0efa3d58/5fba9c9a93a2e77624258d49_Logo.svg" width="40px" height="40px">
+      <img src="https://images.gupy.io/unsafe/85x85/https://s3.amazonaws.com/gupy5/production/companies/1673/career/2546/images/2020-12-07_13-18_logo.png" width="40px" height="40px">
    </a> 
 
 Atualmente estou no modulo de Front-End e em seguida aprenderei back-end e Ciencia da computação.
