@@ -24,7 +24,7 @@ Atualmente estou no modulo de Front-End e em seguida aprenderei back-end e Cienc
    <a href="https://www.linkedin.com/in/micaelaalves/" target="_blank">
       <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
    </a>
-   <a href=""mailto:micaela.alves93@gmail.com" target="_blank">
+   <a href="mailto:micaela.alves93@gmail.com" target="_blank">
       <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" width="48px" height="48px">
    </a>
 <!--
