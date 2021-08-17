@@ -1,3 +1,14 @@
+### Olá, 
+
+Eu sou Micaela Alves, estudande de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">
+      <img src="https://images.gupy.io/unsafe/85x85/https://s3.amazonaws.com/gupy5/production/companies/1673/career/2546/images/2020-12-07_13-18_logo.png" width="40px" height="40px">
+   </a> 
+
+Atualmente morando em São João Nepomuceno-MG e ainda não trabalhando na área. A cada dia que passa fico mais apaixonada por desenvolvimento de software, estudar na Trybe é incrível. Nesta trajetória já passei por Fundamentos e Desenvolvimento Front-End. Agora estamos aprendendo sobre Desenvolvimento Back-End e em breve encerrando com o modulo de Ciência da computação. 
+
+------------------------
+### Linguagens e Ferramentas:
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -13,13 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
 </p>
 
-### Olá, 
-
-Eu sou a Micaela Alves, estudande de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">
-      <img src="https://images.gupy.io/unsafe/85x85/https://s3.amazonaws.com/gupy5/production/companies/1673/career/2546/images/2020-12-07_13-18_logo.png" width="40px" height="40px">
-   </a> 
-
-Atualmente estou no modulo de Front-End e em seguida aprenderei back-end e Ciencia da computação.
+------------------------
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malves0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malves0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -49,8 +54,7 @@ Atualmente estou no modulo de Front-End e em seguida aprenderei back-end e Cienc
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malves0" alt="micaela-alves" /> </p>
 
-----
- ⭐ Inspirado em <a href="https://github.com/johnatas-henrique" target="_blank">Johnatas Henrique</a>
+
 <!--
 **malves0/malves0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
