@@ -1,6 +1,6 @@
 ### Olá, 
 
-Eu sou Micaela Alves, estudante de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">
+Eu sou Micaela Alves, Desenvolvedora Web Full Stack e estudante da <a href="https://www.betrybe.com/" target="_blank">
       <img src="https://images.gupy.io/unsafe/85x85/https://s3.amazonaws.com/gupy5/production/companies/1673/career/2546/images/2020-12-07_13-18_logo.png" width="40px" height="40px">
    </a> 
 
