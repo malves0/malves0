@@ -1,13 +1,13 @@
 ### Olá, 
 
-Eu sou Micaela Alves, Desenvolvedora Web Full Stack e estudante da <a href="https://www.betrybe.com/" target="_blank">
+Eu sou a Micaela Alves, moro aqui em São João Nepomuceno-MG. Sou Desenvolvedora Web e estudante da <a href="https://www.betrybe.com/" target="_blank">
       <img src="https://images.gupy.io/unsafe/85x85/https://s3.amazonaws.com/gupy5/production/companies/1673/career/2546/images/2020-12-07_13-18_logo.png" width="40px" height="40px">
    </a> 
 
-Atualmente morando em São João Nepomuceno-MG e ainda não trabalhando na área. A cada dia que passa fico mais apaixonada por desenvolvimento de software, estudar na Trybe é incrível. Nesta trajetória já passei por Fundamentos e Desenvolvimento Front-End. Agora estamos aprendendo sobre Desenvolvimento Back-End e em breve encerrando com o modulo de Ciência da computação. 
+Tenho como objetivo construir uma careira na area de tecnologia, contribuindo para marcas que trabalhem para gerar impacto positivo na vida das pessoas. Estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.
 
 ------------------------
-### Linguagens e Ferramentas:
+### O que ando usando:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
