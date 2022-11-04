@@ -15,15 +15,12 @@ Tenho como objetivo construir uma careira na area de tecnologia, contribuindo pa
 ### O que ando usando:
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/> 
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"/> 
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3"/> 
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript"/> 
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"/> 
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" /> 
   <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"alt="spring"/>
-
+<a>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript"/> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"/> 
+  
 </p>
 
 ------------------------
@@ -35,15 +32,6 @@ Tenho como objetivo construir uma careira na area de tecnologia, contribuindo pa
 
 📫 Como me encontrar:
 
-   <a href="https://github.com/malves0" target="_blank">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-   </a> 
-   <a href="https://www.instagram.com/mih_alveez/" target="_blank">
-      <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-   </a> 
-   <a href="https://www.facebook.com/micaelaalvees" target="_blank">
-      <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
-   </a> 
    <a href="https://www.linkedin.com/in/micaelaalves/" target="_blank">
       <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
    </a>
