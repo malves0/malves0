@@ -20,10 +20,7 @@ Tenho como objetivo construir uma careira na area de tecnologia, contribuindo pa
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3"/> 
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript"/> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"/> 
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs"/> 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" /> 
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"/> 
-  <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"alt="python"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"alt="spring"/>
 
