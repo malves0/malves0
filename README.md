@@ -2,9 +2,7 @@
 
 Eu sou a Micaela Alves, moro aqui em São João Nepomuceno-MG. 
 
-Estudei Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">
-      <img src="https://images.gupy.io/unsafe/85x85/https://s3.amazonaws.com/gupy5/production/companies/1673/career/2546/images/2020-12-07_13-18_logo.png" width="40px" height="40px">
-   </a> , uma escola que ensina a programar, a aprender e a trabalhar.
+Estudei Desenvolvimento Web na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.
 
 Atualmente atuo como <b> Software Developer no Mercado Livre</b>.
 
